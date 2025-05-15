@@ -7,10 +7,14 @@
   - Toggle the property "complete" of the task
   - Delete a task
 
-# <details> <summary>Screenshots</summary>
+
+<details> 
+
+<summary><h2>Screenshots</h2></summary>
 
 ![img.png](resources_github/img.png)
 
 
 ![img.png](resources_github/img2.png)
+
 </details>
